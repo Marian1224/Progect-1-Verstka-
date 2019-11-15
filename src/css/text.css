@@ -1,0 +1,17 @@
+/* Style for "Text" */
+
+.title-text {
+    text-align: left;
+    margin-bottom: auto;
+    line-height: 1.7;
+}
+
+.block {
+    text-align: left;
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+.block-text {
+    opacity: 0.4;
+}

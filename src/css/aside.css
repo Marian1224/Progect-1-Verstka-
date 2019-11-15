@@ -1,0 +1,33 @@
+/* Style for "Aside" */
+
+.block-aside {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+.box-aside {
+    display: flex;
+    width: 23%;
+    text-align: left;
+    align-items: center;
+}
+
+.box-aside__text {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 20px;
+    opacity: 0.7;
+}
+
+.box-aside__text span{
+   display: block;
+}
+
+.box-aside__img {
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin-right: 10px;
+    opacity: 0.4;
+}

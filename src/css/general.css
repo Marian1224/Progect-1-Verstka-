@@ -1,0 +1,14 @@
+/* Style for General */
+
+.page {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.page__gray {
+    background-color: #F0F0F0;
+}
+
+.wrap {
+    margin: 20px 0;
+}
